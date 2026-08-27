@@ -95,29 +95,25 @@ Cloud-based inventory management system built on SaaS architecture and structure
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=cpp,python,cs,js,html,css" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,cs,js,html,css" />
 
 <br/><br/>
 
 **Machine Learning / AI**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,sklearn" />
-<img src="https://img.shields.io/badge/NumPy-0D0221?style=for-the-badge&logo=numpy&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/Pandas-0D0221?style=for-the-badge&logo=pandas&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/Matplotlib-0D0221?style=for-the-badge&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/Seaborn-0D0221?style=for-the-badge&logoColor=00E5FF" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,matplotlib,seaborn,sklearn" />
 
 <br/><br/>
 
 **Game Development**
 <br/>
-<img src="https://skillicons.dev/icons?i=unity,cs,blender" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=unity,cs,blender" />
 
 <br/><br/>
 
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode" />
 
 </div>
 
