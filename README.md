@@ -1,143 +1,153 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Burhan%20Arshad&fontSize=48&fontColor=7DD3FC&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20%7C%20Software%20%26%20Game%20Development&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:1B1035,100:2E0F4F&height=230&section=header&text=BURHAN%20ARSHAD&fontSize=46&fontColor=00E5FF&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20%E2%80%A2%20Software%20%26%20Game%20Development&descAlignY=58&descSize=17" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Building+Multiplayer+Game+Systems;Designing+SaaS+%26+Database+Architectures;Turning+Ideas+Into+Real+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Building+Multiplayer+Game+Systems;Designing+SaaS+%26+Database+Architectures;Turning+Ideas+Into+Real+Projects" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=burhan-arshad24&color=7DD3FC&style=flat-square&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/burhan-arshad24?label=Followers&style=flat-square&color=7DD3FC" />
+<img src="https://komarev.com/ghpvc/?username=burhan-arshad24&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/burhan-arshad24?label=FOLLOWERS&style=for-the-badge&color=00E5FF&labelColor=1B1035" />
 
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,100:2E0F4F&height=4" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" />
-
-## About Me
+<h2 align="center">// ABOUT</h2>
 
 <table width="100%">
 <tr>
 <td valign="top" width="58%">
 
-🎓 Computer Science student based in **Gujranwala, Pakistan**
+**Computer Science student** based in Gujranwala, Pakistan, working across **software development**, **game development**, and **database-driven systems**.
 
-🛠️ Focused on **software development**, **game development**, and **database-driven systems**
-
-🎮 Currently building a **multiplayer game system** in Unity
-
-☁️ Also developing a **cloud-based SaaS inventory system**
-
-🧩 Learns by shipping real, working projects — not just tutorials
+Currently building a **multiplayer game system** in Unity and a **cloud-based SaaS inventory platform** — learns by shipping real, working projects rather than tutorials.
 
 </td>
 <td valign="top" width="42%">
 
-<img src="https://img.shields.io/badge/Status-Actively%20Building-7DD3FC?style=for-the-badge&labelColor=0F2027" /><br/>
-<img src="https://img.shields.io/badge/Focus-Game%20Development-203A43?style=for-the-badge&labelColor=0F2027" /><br/>
-<img src="https://img.shields.io/badge/Focus-Software%20Engineering-203A43?style=for-the-badge&labelColor=0F2027" /><br/>
-<img src="https://img.shields.io/badge/Focus-Database%20Systems-203A43?style=for-the-badge&labelColor=0F2027" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-00E5FF?style=for-the-badge&labelColor=0D0221" /><br/>
+<img src="https://img.shields.io/badge/FOCUS-GAME_DEV-8A2BE2?style=for-the-badge&labelColor=0D0221" /><br/>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE_ENGINEERING-8A2BE2?style=for-the-badge&labelColor=0D0221" /><br/>
+<img src="https://img.shields.io/badge/FOCUS-DATABASE_SYSTEMS-8A2BE2?style=for-the-badge&labelColor=0D0221" />
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,100:2E0F4F&height=4" />
 
-## Featured Projects
+<h2 align="center">// FEATURED PROJECTS</h2>
 
-### 🕵️ Unity Multiplayer Burglary Game
-A multiplayer stealth game built in Unity, focused on networked player movement, interactive environments, and cooperative/competitive burglary-style gameplay.
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
-| Tech | |
-|---|---|
-| Engine | Unity |
-| Language | C# |
-| Focus | Multiplayer networking, interactive environments |
+<img src="https://img.shields.io/badge/GAME-STEALTH-8A2BE2?style=flat-square&labelColor=0D0221" />
 
-**Code:** https://github.com/burhan-arshad24/Unity-Multiplayer-Burglary-Game
+**Unity Multiplayer Burglary Game**
 
-<br/>
+Multiplayer stealth game with networked player movement, interactive environments, and cooperative/competitive gameplay.
 
-### 🎮 Debug or Die
-A narrative-driven horror/storyline game project exploring atmosphere, pacing, and interactive storytelling in Unity.
+`Unity` `C#` `Netcode`
 
-| Tech | |
-|---|---|
-| Engine | Unity |
-| Focus | Storyline design, atmosphere, game logic |
+[View Repo →](https://github.com/burhan-arshad24/Unity-Multiplayer-Burglary-Game)
 
-**Code:** https://github.com/burhan-arshad24/debug-or-die
+</td>
+<td width="33%" valign="top">
 
-<br/>
+<img src="https://img.shields.io/badge/GAME-HORROR-8A2BE2?style=flat-square&labelColor=0D0221" />
 
-### 🗄️ Inventory SaaS
-A cloud-based inventory management system built around SaaS architecture principles and structured database design.
+**Debug or Die**
 
-| Tech | |
-|---|---|
-| Focus | SaaS architecture, inventory management, database design |
+Narrative-driven horror storyline game exploring atmosphere, pacing, and interactive storytelling.
 
-**Code:** https://github.com/burhan-arshad24/inventory-saas
+`Unity` `Game Logic`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" />
+[View Repo →](https://github.com/burhan-arshad24/debug-or-die)
 
-## Tech Stack
+</td>
+<td width="33%" valign="top">
 
-**Languages**
+<img src="https://img.shields.io/badge/SAAS-INVENTORY-00E5FF?style=flat-square&labelColor=0D0221" />
 
-<img src="https://skillicons.dev/icons?i=cpp,python,cs,js,html,css" />
+**Inventory SaaS**
 
-**Game Development**
+Cloud-based inventory management system built on SaaS architecture and structured database design.
 
-<img src="https://skillicons.dev/icons?i=unity,cs,blender" />
+`SaaS` `Database Design`
 
-**Tools**
+[View Repo →](https://github.com/burhan-arshad24/inventory-saas)
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</td>
+</tr>
+</table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,100:2E0F4F&height=4" />
 
-## GitHub Stats
+<h2 align="center">// TECH STACK</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=burhan-arshad24&show_icons=true&theme=nord&border_color=7DD3FC&title_color=7DD3FC&icon_color=7DD3FC&hide_border=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhan-arshad24&layout=compact&theme=nord&border_color=7DD3FC&title_color=7DD3FC&hide_border=false" width="49%" />
-
+**Languages**
 <br/>
-
-<img src="https://streak-stats.demolab.com?user=burhan-arshad24&theme=nord&border=7DD3FC&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC" width="70%" />
+<img src="https://skillicons.dev/icons?i=cpp,python,cs,js,html,css" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=burhan-arshad24&theme=nord&no-frame=true&no-bg=true&row=1&column=6" />
-
+**Game Development**
 <br/>
+<img src="https://skillicons.dev/icons?i=unity,cs,blender" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=burhan-arshad24&theme=nord&hide_border=true&color=7DD3FC&line=7DD3FC&point=ffffff" width="90%" />
+<br/><br/>
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,100:2E0F4F&height=4" />
 
-## Connect
+<h2 align="center">// GITHUB STATS</h2>
 
 <div align="center">
 
-<a href="mailto:burhanarshad707@gmail.com"><img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=7DD3FC" /></a>
-<a href="https://www.linkedin.com/in/burhan-arshad-816473324/"><img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=7DD3FC" /></a>
-<a href="https://www.upwork.com/freelancers/~01ea7bfad0ddb63528"><img src="https://img.shields.io/badge/Upwork-0F2027?style=for-the-badge&logo=upwork&logoColor=7DD3FC" /></a>
-<a href="https://www.instagram.com/https_jerry24/"><img src="https://img.shields.io/badge/Instagram-0F2027?style=for-the-badge&logo=instagram&logoColor=7DD3FC" /></a>
-<a href="https://wa.me/923147089020"><img src="https://img.shields.io/badge/WhatsApp-0F2027?style=for-the-badge&logo=whatsapp&logoColor=7DD3FC" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=burhan-arshad24&show_icons=true&theme=radical&border_color=00E5FF&title_color=00E5FF&icon_color=00E5FF&bg_color=0D0221&hide_border=false" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhan-arshad24&layout=compact&theme=radical&border_color=00E5FF&title_color=00E5FF&bg_color=0D0221&hide_border=false" width="49%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=burhan-arshad24&theme=radical&border=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&background=0D0221" width="70%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=burhan-arshad24&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=burhan-arshad24&theme=react-dark&hide_border=true&color=00E5FF&line=00E5FF&point=ffffff&bg_color=0D0221" width="90%" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,100:2E0F4F&height=4" />
+
+<h2 align="center">// CONNECT</h2>
+
+<div align="center">
+
+<a href="mailto:burhanarshad707@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D0221?style=for-the-badge&logo=gmail&logoColor=00E5FF" /></a>
+<a href="https://www.linkedin.com/in/burhan-arshad-816473324/"><img src="https://img.shields.io/badge/LINKEDIN-0D0221?style=for-the-badge&logo=linkedin&logoColor=00E5FF" /></a>
+<a href="https://www.upwork.com/freelancers/~01ea7bfad0ddb63528"><img src="https://img.shields.io/badge/UPWORK-0D0221?style=for-the-badge&logo=upwork&logoColor=00E5FF" /></a>
+<a href="https://www.instagram.com/https_jerry24/"><img src="https://img.shields.io/badge/INSTAGRAM-0D0221?style=for-the-badge&logo=instagram&logoColor=00E5FF" /></a>
+<a href="https://wa.me/923147089020"><img src="https://img.shields.io/badge/WHATSAPP-0D0221?style=for-the-badge&logo=whatsapp&logoColor=00E5FF" /></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:1B1035,100:2E0F4F&height=120&section=footer" />
