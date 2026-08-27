@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:1B1035,100:2E0F4F&height=230&section=header&text=BURHAN%20ARSHAD&fontSize=46&fontColor=00E5FF&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20%E2%80%A2%20Software%20%26%20Game%20Development&descAlignY=58&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,100:2E0F4F&height=230&section=header&text=BURHAN%20ARSHAD&fontSize=46&fontColor=00E5FF&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20%E2%80%A2%20Software%20%26%20Game%20Development&descAlignY=58&descSize=17" />
 
 <br/>
 
@@ -10,8 +10,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=burhan-arshad24&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/burhan-arshad24?label=FOLLOWERS&style=for-the-badge&color=00E5FF&labelColor=1B1035" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/burhan-arshad24&label=PROFILE%20VIEWS&query=$.public_repos&color=00E5FF&style=for-the-badge&labelColor=0D0221&logo=github" />
+<img src="https://img.shields.io/github/followers/burhan-arshad24?label=FOLLOWERS&style=for-the-badge&color=00E5FF&labelColor=0D0221&logo=github" />
+<img src="https://img.shields.io/github/stars/burhan-arshad24?affiliations=OWNER&label=STARS&style=for-the-badge&color=8A2BE2&labelColor=0D0221&logo=github" />
 
 </div>
 
@@ -150,4 +151,4 @@ Cloud-based inventory management system built on SaaS architecture and structure
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:1B1035,100:2E0F4F&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,100:2E0F4F&height=120&section=footer" />
