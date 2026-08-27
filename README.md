@@ -17,23 +17,37 @@
 
 <br/>
 
-## Who I Am
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" />
 
-```ts
-const burhan = {
-  title: "Computer Science Student",
-  based: "Gujranwala, Pakistan",
-  focus: ["Software Development", "Game Development", "Database Systems"],
-  currentlyBuilding: [
-    "Multiplayer game systems in Unity",
-    "Cloud-based SaaS inventory management",
-  ],
-  approach: "Learning through real, shippable projects rather than tutorials alone",
-  status: "Actively building and shipping side projects",
-};
-```
+## About Me
 
-<br/>
+<table width="100%">
+<tr>
+<td valign="top" width="58%">
+
+🎓 Computer Science student based in **Gujranwala, Pakistan**
+
+🛠️ Focused on **software development**, **game development**, and **database-driven systems**
+
+🎮 Currently building a **multiplayer game system** in Unity
+
+☁️ Also developing a **cloud-based SaaS inventory system**
+
+🧩 Learns by shipping real, working projects — not just tutorials
+
+</td>
+<td valign="top" width="42%">
+
+<img src="https://img.shields.io/badge/Status-Actively%20Building-7DD3FC?style=for-the-badge&labelColor=0F2027" /><br/>
+<img src="https://img.shields.io/badge/Focus-Game%20Development-203A43?style=for-the-badge&labelColor=0F2027" /><br/>
+<img src="https://img.shields.io/badge/Focus-Software%20Engineering-203A43?style=for-the-badge&labelColor=0F2027" /><br/>
+<img src="https://img.shields.io/badge/Focus-Database%20Systems-203A43?style=for-the-badge&labelColor=0F2027" />
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" />
 
 ## Featured Projects
 
@@ -71,7 +85,7 @@ A cloud-based inventory management system built around SaaS architecture princip
 
 **Code:** https://github.com/burhan-arshad24/inventory-saas
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" />
 
 ## Tech Stack
 
@@ -87,7 +101,7 @@ A cloud-based inventory management system built around SaaS architecture princip
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" />
 
 ## GitHub Stats
 
@@ -110,7 +124,7 @@ A cloud-based inventory management system built around SaaS architecture princip
 
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" />
 
 ## Connect
 
