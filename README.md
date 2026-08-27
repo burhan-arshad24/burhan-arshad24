@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,100:2E0F4F&height=230&section=header&text=BURHAN%20ARSHAD&fontSize=46&fontColor=00E5FF&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Student-nl-Software%20and%20Game%20Development&descAlignY=58&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,100:2E0F4F&height=230&section=header&text=BURHAN%20ARSHAD&fontSize=46&fontColor=00E5FF&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Student-nl-Machine%20Learning%20and%20AI&descAlignY=58&descSize=17" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Building+Multiplayer+Game+Systems;Designing+SaaS+and+Database+Architectures;Currently+Exploring+Machine+Learning+and+AI;Turning+Ideas+Into+Real+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Focused+on+Machine+Learning+and+AI;Shipped+a+Multiplayer+Game+System;Shipped+a+Cloud-Based+SaaS+Platform;Turning+Ideas+Into+Real+Projects" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -23,18 +23,17 @@
 <tr>
 <td valign="top" width="58%">
 
-**Computer Science student** based in Gujranwala, Pakistan, working across **software development**, **game development**, and **database-driven systems**.
+**Computer Science student** based in Gujranwala, Pakistan, with a background in **software development**, **game development**, and **database-driven systems** — has since shifted focus toward **Machine Learning and AI**.
 
-Currently building a **multiplayer game system** in Unity and a **cloud-based SaaS inventory platform**, while also exploring **Machine Learning and AI** — learns by shipping real, working projects rather than tutorials.
+Has completed a **multiplayer game system** in Unity and a **cloud-based SaaS inventory platform**, and is now applying the same project-first approach to ML/AI.
 
 </td>
 <td valign="top" width="42%">
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-00E5FF?style=for-the-badge&labelColor=0D0221" /><br/>
-<img src="https://img.shields.io/badge/FOCUS-GAME_DEV-8A2BE2?style=for-the-badge&labelColor=0D0221" /><br/>
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE_ENGINEERING-8A2BE2?style=for-the-badge&labelColor=0D0221" /><br/>
-<img src="https://img.shields.io/badge/FOCUS-DATABASE_SYSTEMS-8A2BE2?style=for-the-badge&labelColor=0D0221" /><br/>
-<img src="https://img.shields.io/badge/FOCUS-ML_%2F_AI-00E5FF?style=for-the-badge&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/STATUS-FOCUSED_ON_ML%2FAI-00E5FF?style=for-the-badge&labelColor=0D0221" /><br/>
+<img src="https://img.shields.io/badge/COMPLETED-GAME_DEV-8A2BE2?style=for-the-badge&labelColor=0D0221" /><br/>
+<img src="https://img.shields.io/badge/COMPLETED-SAAS_PLATFORM-8A2BE2?style=for-the-badge&labelColor=0D0221" /><br/>
+<img src="https://img.shields.io/badge/BACKGROUND-DATABASE_SYSTEMS-8A2BE2?style=for-the-badge&labelColor=0D0221" />
 
 </td>
 </tr>
@@ -48,7 +47,7 @@ Currently building a **multiplayer game system** in Unity and a **cloud-based Sa
 <tr>
 <td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/GAME-STEALTH-8A2BE2?style=flat-square&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/GAME-COMPLETED-8A2BE2?style=flat-square&labelColor=0D0221" />
 
 **Unity Multiplayer Burglary Game**
 
@@ -61,7 +60,7 @@ Multiplayer stealth game with networked player movement, interactive environment
 </td>
 <td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/GAME-HORROR-8A2BE2?style=flat-square&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/GAME-COMPLETED-8A2BE2?style=flat-square&labelColor=0D0221" />
 
 **Debug or Die**
 
@@ -74,7 +73,7 @@ Narrative-driven horror storyline game exploring atmosphere, pacing, and interac
 </td>
 <td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/SAAS-INVENTORY-00E5FF?style=flat-square&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/SAAS-COMPLETED-00E5FF?style=flat-square&labelColor=0D0221" />
 
 **Inventory SaaS**
 
@@ -102,7 +101,11 @@ Cloud-based inventory management system built on SaaS architecture and structure
 
 **Machine Learning / AI**
 <br/>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,sklearn" />
+<img src="https://img.shields.io/badge/NumPy-0D0221?style=for-the-badge&logo=numpy&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Pandas-0D0221?style=for-the-badge&logo=pandas&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Matplotlib-0D0221?style=for-the-badge&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Seaborn-0D0221?style=for-the-badge&logoColor=00E5FF" />
 
 <br/><br/>
 
@@ -115,29 +118,6 @@ Cloud-based inventory management system built on SaaS architecture and structure
 **Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,100:2E0F4F&height=4" />
-
-<h2 align="center">// GITHUB STATS</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=burhan-arshad24&show_icons=true&theme=radical&border_color=00E5FF&title_color=00E5FF&icon_color=00E5FF&bg_color=0D0221&hide_border=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhan-arshad24&layout=compact&theme=radical&border_color=00E5FF&title_color=00E5FF&bg_color=0D0221&hide_border=false" width="49%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=burhan-arshad24&theme=radical&border=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&background=0D0221" width="70%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=burhan-arshad24&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=burhan-arshad24&theme=react-dark&hide_border=true&color=00E5FF&line=00E5FF&point=ffffff&bg_color=0D0221" width="90%" />
 
 </div>
 
