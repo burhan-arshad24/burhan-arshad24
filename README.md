@@ -1,18 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,100:2E0F4F&height=230&section=header&text=BURHAN%20ARSHAD&fontSize=46&fontColor=00E5FF&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20%E2%80%A2%20Software%20%26%20Game%20Development&descAlignY=58&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,100:2E0F4F&height=230&section=header&text=BURHAN%20ARSHAD&fontSize=46&fontColor=00E5FF&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Student-nl-Software%20and%20Game%20Development&descAlignY=58&descSize=17" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Building+Multiplayer+Game+Systems;Designing+SaaS+%26+Database+Architectures;Turning+Ideas+Into+Real+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Building+Multiplayer+Game+Systems;Designing+SaaS+and+Database+Architectures;Turning+Ideas+Into+Real+Projects" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/burhan-arshad24&label=PROFILE%20VIEWS&query=$.public_repos&color=00E5FF&style=for-the-badge&labelColor=0D0221&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=burhan-arshad24&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/burhan-arshad24?label=FOLLOWERS&style=for-the-badge&color=00E5FF&labelColor=0D0221&logo=github" />
-<img src="https://img.shields.io/github/stars/burhan-arshad24?affiliations=OWNER&label=STARS&style=for-the-badge&color=8A2BE2&labelColor=0D0221&logo=github" />
 
 </div>
 
