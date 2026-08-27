@@ -5,13 +5,13 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Building+Multiplayer+Game+Systems;Designing+SaaS+and+Database+Architectures;Turning+Ideas+Into+Real+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Building+Multiplayer+Game+Systems;Designing+SaaS+and+Database+Architectures;Currently+Exploring+Machine+Learning+and+AI;Turning+Ideas+Into+Real+Projects" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=burhan-arshad24&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/burhan-arshad24?label=FOLLOWERS&style=for-the-badge&color=00E5FF&labelColor=0D0221&logo=github" />
+<img src="https://img.shields.io/github/followers/burhan-arshad24?label=FOLLOWERS&style=for-the-badge&color=00E5FF&labelColor=1B1035" />
 
 </div>
 
@@ -25,7 +25,7 @@
 
 **Computer Science student** based in Gujranwala, Pakistan, working across **software development**, **game development**, and **database-driven systems**.
 
-Currently building a **multiplayer game system** in Unity and a **cloud-based SaaS inventory platform** — learns by shipping real, working projects rather than tutorials.
+Currently building a **multiplayer game system** in Unity and a **cloud-based SaaS inventory platform**, while also exploring **Machine Learning and AI** — learns by shipping real, working projects rather than tutorials.
 
 </td>
 <td valign="top" width="42%">
@@ -33,7 +33,8 @@ Currently building a **multiplayer game system** in Unity and a **cloud-based Sa
 <img src="https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-00E5FF?style=for-the-badge&labelColor=0D0221" /><br/>
 <img src="https://img.shields.io/badge/FOCUS-GAME_DEV-8A2BE2?style=for-the-badge&labelColor=0D0221" /><br/>
 <img src="https://img.shields.io/badge/FOCUS-SOFTWARE_ENGINEERING-8A2BE2?style=for-the-badge&labelColor=0D0221" /><br/>
-<img src="https://img.shields.io/badge/FOCUS-DATABASE_SYSTEMS-8A2BE2?style=for-the-badge&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/FOCUS-DATABASE_SYSTEMS-8A2BE2?style=for-the-badge&labelColor=0D0221" /><br/>
+<img src="https://img.shields.io/badge/FOCUS-ML_%2F_AI-00E5FF?style=for-the-badge&labelColor=0D0221" />
 
 </td>
 </tr>
@@ -96,6 +97,12 @@ Cloud-based inventory management system built on SaaS architecture and structure
 **Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=cpp,python,cs,js,html,css" />
+
+<br/><br/>
+
+**Machine Learning / AI**
+<br/>
+<img src="https://skillicons.dev/icons?i=python" />
 
 <br/><br/>
 
