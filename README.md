@@ -212,8 +212,6 @@ Full two-player chess game with complete game logic built from scratch in the co
 
 </div>
 
-> **Note:** the snake animation above needs a one-time GitHub Actions setup (see the "How to activate the snake" section at the bottom of this file).
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:6A0DAD,100:00E5FF&height=4" />
 
 <h2 align="center">🤝 LET'S CONNECT</h2>
@@ -236,57 +234,4 @@ Full two-player chess game with complete game logic built from scratch in the co
 
 </div>
 
-<!--
-============================================================
- HOW TO USE THIS README
-============================================================
 
-1. Save this file as README.md in a repo named exactly
-   your username: burhan-arshad24/burhan-arshad24
-   (GitHub shows this repo's README on your profile page.)
-
-2. GITHUB STATS / STREAK CARDS — work automatically,
-   no setup needed. They pull live data from your username.
-   (The trophy card was removed and replaced with static
-   achievement badges, since its service has publicly warned
-   it may shut down due to traffic/hosting costs.)
-
-3. SNAKE ANIMATION — needs a one-time GitHub Action:
-   a. In your burhan-arshad24/burhan-arshad24 repo, go to
-      Settings → Secrets → Actions (nothing needed here,
-      it uses the default GITHUB_TOKEN).
-   b. Create a file at .github/workflows/snake.yml with:
-
-      name: Generate Snake
-      on:
-        schedule:
-          - cron: "0 0 * * *"
-        push:
-          branches: [ main ]
-        workflow_dispatch: {}
-      jobs:
-        generate:
-          runs-on: ubuntu-latest
-          steps:
-            - uses: Platane/snk@v3
-              with:
-                github_user_name: burhan-arshad24
-                outputs: |
-                  dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            - uses: crazy-max/ghaction-github-pages@v4
-              with:
-                target_branch: output
-                build_dir: dist
-              env:
-                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-   c. Commit, then manually run the workflow once from the
-      Actions tab. It will create an "output" branch with
-      the snake SVG, which the image link above already
-      points to.
-
-4. COLORS — the whole theme uses a purple/cyan palette
-   (#0D0221, #6A0DAD, #00E5FF). Change these hex codes in
-   every image URL above if you want a different color scheme.
-============================================================
--->
