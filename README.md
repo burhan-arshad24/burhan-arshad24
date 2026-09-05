@@ -12,45 +12,104 @@
 
 <img src="https://komarev.com/ghpvc/?username=burhan-arshad24&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/burhan-arshad24?label=FOLLOWERS&style=for-the-badge&color=00E5FF&labelColor=1B1035" />
+<img src="https://img.shields.io/badge/CGPA-3.99%2F4.00-00E5FF?style=for-the-badge&labelColor=1B1035" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,100:2E0F4F&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:6A0DAD,100:00E5FF&height=4" />
 
-<h2 align="center">// ABOUT</h2>
+<h2 align="center">⚡ ABOUT ME</h2>
 
 <table width="100%">
 <tr>
-<td valign="top" width="58%">
+<td valign="top" width="60%">
 
-**Computer Science student** based in Gujranwala, Pakistan, with a background in **software development**, **game development**, and **database-driven systems** — has since shifted focus toward **Machine Learning and AI**.
+```python
+class Burhan:
+    def __init__(self):
+        self.name        = "Burhan Arshad"
+        self.role        = "AI & Machine Learning Developer"
+        self.education   = "BS Computer Science, 4th Semester"
+        self.university  = "University of Central Punjab"
+        self.cgpa        = 3.99
+        self.location    = "Gujranwala, Pakistan"
+        self.focus       = ["Machine Learning", "Deep Learning",
+                             "NLP", "Computer Vision"]
+        self.hobby       = "Game Development (Unity)"
+        self.philosophy  = "Learn. Build. Break. Improve. Deploy."
 
-Has completed a **multiplayer game system** in Unity and a **cloud-based SaaS inventory platform**, and is now applying the same project-first approach to ML/AI.
+    def currently_building(self):
+        return "Intelligent, data-driven applications 🤖"
+
+me = Burhan()
+```
+
+I'm a Computer Science student who believes in **learning by building**. From ML models to a cloud SaaS platform to multiplayer games — every project is a chance to turn theory into something real. Alongside AI, I also work with **WordPress, Shopify, and full-stack web development**, and I coordinate coding-related sessions and presentations for my university's **Coding Club**.
 
 </td>
-<td valign="top" width="42%">
+<td valign="top" width="40%">
 
-<img src="https://img.shields.io/badge/STATUS-FOCUSED_ON_ML%2FAI-00E5FF?style=for-the-badge&labelColor=0D0221" /><br/>
-<img src="https://img.shields.io/badge/COMPLETED-GAME_DEV-8A2BE2?style=for-the-badge&labelColor=0D0221" /><br/>
-<img src="https://img.shields.io/badge/COMPLETED-SAAS_PLATFORM-8A2BE2?style=for-the-badge&labelColor=0D0221" /><br/>
-<img src="https://img.shields.io/badge/BACKGROUND-DATABASE_SYSTEMS-8A2BE2?style=for-the-badge&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/STATUS-FOCUSED_ON_ML%2FAI-00E5FF?style=for-the-badge&labelColor=0D0221" /><br/><br/>
+<img src="https://img.shields.io/badge/SHIPPED-GAME_DEV-8A2BE2?style=for-the-badge&labelColor=0D0221" /><br/><br/>
+<img src="https://img.shields.io/badge/SHIPPED-SAAS_PLATFORM-8A2BE2?style=for-the-badge&labelColor=0D0221" /><br/><br/>
+<img src="https://img.shields.io/badge/SHIPPED-ML_MODELS-8A2BE2?style=for-the-badge&labelColor=0D0221" /><br/><br/>
+<img src="https://img.shields.io/badge/ROLE-CODING_CLUB_COORDINATOR-8A2BE2?style=for-the-badge&labelColor=0D0221" />
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,100:2E0F4F&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:6A0DAD,100:00E5FF&height=4" />
 
-<h2 align="center">// FEATURED PROJECTS</h2>
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/GAME-COMPLETED-8A2BE2?style=flat-square&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/ML-99%25_ACCURACY-00E5FF?style=flat-square&labelColor=0D0221" />
 
-**Unity Multiplayer Burglary Game**
+### 📱 SMS Spam Classifier
+NLP-based classifier distinguishing spam from legitimate SMS using **TF-IDF** + **Linear SVM**, tuned via GridSearchCV. Deployed with a real-time Streamlit interface.
 
+**~99% accuracy · ~97% macro F1-score**
+
+`Python` `Scikit-learn` `TF-IDF` `Streamlit`
+
+[View Repo →](https://github.com/burhan-arshad24/nlp-spam-detection) · [Live Demo →](https://nlp-spam-detection-burhan.streamlit.app/)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/ML-REGRESSION-00E5FF?style=flat-square&labelColor=0D0221" />
+
+### 🚲 Bike Demand Prediction
+Regression model predicting bike rental demand from environmental & temporal features, using **Random Forest** optimized with GridSearchCV.
+
+`Python` `Pandas` `Scikit-learn` `Streamlit`
+
+[View Repo →](https://github.com/burhan-arshad24/bike-demand-prediction) · [Live Demo →](https://bike-demand-prediction-burhan.streamlit.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/SAAS-MULTI--TENANT-8A2BE2?style=flat-square&labelColor=0D0221" />
+
+### ☁️ Cloud-Based SaaS Inventory System
+Multi-tenant inventory management platform with tenant isolation, structured database architecture, and real-time data sync.
+
+`PostgreSQL` `Supabase` `SQL` `Realtime`
+
+[View Repo →](https://github.com/burhan-arshad24/inventory-saas) · [Live Demo →](https://inventory-saas-eight.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/GAME-MULTIPLAYER-8A2BE2?style=flat-square&labelColor=0D0221" />
+
+### 🎮 Unity Multiplayer Burglary Game
 Multiplayer stealth game with networked player movement, interactive environments, and cooperative/competitive gameplay.
 
 `Unity` `C#` `Netcode`
@@ -58,38 +117,38 @@ Multiplayer stealth game with networked player movement, interactive environment
 [View Repo →](https://github.com/burhan-arshad24/Unity-Multiplayer-Burglary-Game)
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/GAME-COMPLETED-8A2BE2?style=flat-square&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/GAME-HORROR-8A2BE2?style=flat-square&labelColor=0D0221" />
 
-**Debug or Die**
+### 🕹️ Debug or Die
+Narrative-driven horror survival game exploring atmosphere, pacing, and interactive storytelling.
 
-Narrative-driven horror storyline game exploring atmosphere, pacing, and interactive storytelling.
-
-`Unity` `Game Logic`
+`Unity` `C#` `Blender`
 
 [View Repo →](https://github.com/burhan-arshad24/debug-or-die)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/SAAS-COMPLETED-00E5FF?style=flat-square&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/CLASSIC-C%2B%2B-8A2BE2?style=flat-square&labelColor=0D0221" />
 
-**Inventory SaaS**
+### ♟️ 2-Player Console Chess
+Full two-player chess game with complete game logic built from scratch in the console.
 
-Cloud-based inventory management system built on SaaS architecture and structured database design.
+`C++`
 
-`SaaS` `Database Design`
-
-[View Repo →](https://github.com/burhan-arshad24/inventory-saas)
+[View Repo →](https://github.com/burhan-arshad24/2-player-console-Chess-Game)
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,100:2E0F4F&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:6A0DAD,100:00E5FF&height=4" />
 
-<h2 align="center">// TECH STACK</h2>
+<h2 align="center">🧠 TECH STACK</h2>
 
 <div align="center">
 
@@ -101,7 +160,13 @@ Cloud-based inventory management system built on SaaS architecture and structure
 
 **Machine Learning / AI**
 <br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,matplotlib,seaborn,sklearn" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,matplotlib,seaborn,sklearn,tensorflow" />
+
+<br/><br/>
+
+**Web Development**
+<br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,tailwind,wordpress" />
 
 <br/><br/>
 
@@ -111,15 +176,47 @@ Cloud-based inventory management system built on SaaS architecture and structure
 
 <br/><br/>
 
-**Tools**
+**Tools & Platforms**
 <br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postgresql,supabase" />
+
+</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:6A0DAD,100:00E5FF&height=4" />
+
+<h2 align="center">📊 GITHUB STATS</h2>
+
+<div align="center">
+
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=burhan-arshad24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=burhan-arshad24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00E5FF&text_color=c9d1d9" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=burhan-arshad24&theme=tokyonight&hide_border=true&background=0D0221&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PROJECTS_SHIPPED-6-00E5FF?style=for-the-badge&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/ML_ACCURACY-99%25-00E5FF?style=for-the-badge&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/CGPA-3.99%2F4.00-00E5FF?style=for-the-badge&labelColor=0D0221" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,100:2E0F4F&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:6A0DAD,100:00E5FF&height=4" />
 
-<h2 align="center">// CONNECT</h2>
+<h2 align="center">🐍 CONTRIBUTION GRAPH</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/burhan-arshad24/burhan-arshad24/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+> **Note:** the snake animation above needs a one-time GitHub Actions setup (see the "How to activate the snake" section at the bottom of this file).
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:6A0DAD,100:00E5FF&height=4" />
+
+<h2 align="center">🤝 LET'S CONNECT</h2>
 
 <div align="center">
 
@@ -129,8 +226,67 @@ Cloud-based inventory management system built on SaaS architecture and structure
 <a href="https://www.instagram.com/https_jerry24/"><img src="https://img.shields.io/badge/INSTAGRAM-0D0221?style=for-the-badge&logo=instagram&logoColor=00E5FF" /></a>
 <a href="https://wa.me/923147089020"><img src="https://img.shields.io/badge/WHATSAPP-0D0221?style=for-the-badge&logo=whatsapp&logoColor=00E5FF" /></a>
 
+<br/><br/>
+
+*🔓 Open for freelance opportunities and collaborations*
+
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:6A0DAD,100:00E5FF&height=130&section=footer" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,100:2E0F4F&height=120&section=footer" />
+</div>
+
+<!--
+============================================================
+ HOW TO USE THIS README
+============================================================
+
+1. Save this file as README.md in a repo named exactly
+   your username: burhan-arshad24/burhan-arshad24
+   (GitHub shows this repo's README on your profile page.)
+
+2. GITHUB STATS / STREAK CARDS — work automatically,
+   no setup needed. They pull live data from your username.
+   (The trophy card was removed and replaced with static
+   achievement badges, since its service has publicly warned
+   it may shut down due to traffic/hosting costs.)
+
+3. SNAKE ANIMATION — needs a one-time GitHub Action:
+   a. In your burhan-arshad24/burhan-arshad24 repo, go to
+      Settings → Secrets → Actions (nothing needed here,
+      it uses the default GITHUB_TOKEN).
+   b. Create a file at .github/workflows/snake.yml with:
+
+      name: Generate Snake
+      on:
+        schedule:
+          - cron: "0 0 * * *"
+        push:
+          branches: [ main ]
+        workflow_dispatch: {}
+      jobs:
+        generate:
+          runs-on: ubuntu-latest
+          steps:
+            - uses: Platane/snk@v3
+              with:
+                github_user_name: burhan-arshad24
+                outputs: |
+                  dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            - uses: crazy-max/ghaction-github-pages@v4
+              with:
+                target_branch: output
+                build_dir: dist
+              env:
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+   c. Commit, then manually run the workflow once from the
+      Actions tab. It will create an "output" branch with
+      the snake SVG, which the image link above already
+      points to.
+
+4. COLORS — the whole theme uses a purple/cyan palette
+   (#0D0221, #6A0DAD, #00E5FF). Change these hex codes in
+   every image URL above if you want a different color scheme.
+============================================================
+-->
